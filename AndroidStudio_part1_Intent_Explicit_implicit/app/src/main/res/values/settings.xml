@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Apa nama ibu kandung anda?</item>
+        <item>Hewan favorit anda?</item>
+        <item>Hobby kesukaan anda?</item>
+    </string-array>
+</resources>
